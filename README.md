@@ -102,9 +102,8 @@
 ## 個人開発
 
 ### beauters 電子顧客管理カルテ
-
-【使用技術】  React / Ruby (Ruby On Rails)/ AWS（EC2、 Route53）  
-【Github】https://github.com/mizutamazukki
+【使用技術】  React / Ruby (Ruby On Rails)/ AWS（EC2、 Route53）  <br>
+【Github】https://github.com/mizutamazukki<br>
 【URL】https://www.beauters.jp/
 【備考】
-- DDDでの開発
+DDDでの開発
