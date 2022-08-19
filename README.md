@@ -8,7 +8,7 @@
 |年齢|27|
 |地域|東京都|
 |学歴|東京情報大学 （環境情報学部卒）|
-|ポートフォリオ|[beauters](https://www.beauters.jp) 〜完全ペーパーレスへ〜 |
+|ポートフォリオ|[beauters](https://www.beauters.jp) 〜完全ペーパーレスへ〜　サービス終了 |
 |SNS|[Qiita](https://qiita.com/mizutamazukki) |
 |受賞歴|[rubybiz](https://rubybiz.jp/prize_2018.html) 大賞 |
 
