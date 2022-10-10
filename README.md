@@ -66,11 +66,12 @@
 |時期|業務概要|使用言語|私の役割|詳細|
 |----|----|----|----|----|
 |2019/9 〜20/04|施工管理システムのリプレイス|Ruby, RubyOnRails|Player|既存のコードを確認しながら新規APIの構築テーブル設計のリファクタリング等|
-|20/05 〜現在|LMSの新規構築|Ruby, RubyOnRails|Player|OpenAPIを用いたスキーマ駆動での開発|
-|20/05 〜現在|LMSの構築、運用、保守|Ruby, RubyOnRails|Player|新規APIの作成、マイクロサービス|
-|20/05 〜現在|LMSの構築、運用、保守|Ruby, RubyOnRails|Player|Rubyのバージョンの運用、保守|
-|20/05 〜現在|LMSの構築、運用、保守|Ruby, RubyOnRails|Player|ライブラリーの運用保守|
-|20/05 〜現在|LMSの構築、運用、保守|Grpc|Player|マイクロサービス間の通信の置き換え|
+|20/05 〜22/09|LMSの新規構築|Ruby, RubyOnRails|Player|OpenAPIを用いたスキーマ駆動での開発|
+|20/05 〜22/09|LMSの構築、運用、保守|Ruby, RubyOnRails|Player|新規APIの作成、マイクロサービス|
+|20/05 〜22/09|LMSの構築、運用、保守|Ruby, RubyOnRails|Player|Rubyのバージョンの運用、保守|
+|20/05 〜22/09|LMSの構築、運用、保守|Ruby, RubyOnRails|Player|ライブラリーの運用保守|
+|20/05 〜22/09|LMSの構築、運用、保守|Grpc|Player|マイクロサービス間の通信の置き換え|
+|22/10 〜現在|通知システムのリプレイス|Ruby, RubyOnRails|Player|通知システムのリプレイス|
 
 #### 株式会社Cocooking　(2018/1~ 2019/8)
 
